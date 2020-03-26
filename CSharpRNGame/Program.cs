@@ -40,7 +40,7 @@ namespace CSharpRNGame
                 {
                     Console.WriteLine("Number is outside of guessing range");
                     validInput = false;
-                    continue;
+                    continue; 
                 }
 
                 if (validInput)
